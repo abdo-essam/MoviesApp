@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="genres">Genres</string>
+    <string name="last_movie">Last Movie</string>
+    <string name="actors">Actors</string>
+    <string name="summary">Summary</string>
+    <string name="last_movies">Last Movies</string>
+    <string name="moreinfo">MoreInfo</string>
+</resources>
